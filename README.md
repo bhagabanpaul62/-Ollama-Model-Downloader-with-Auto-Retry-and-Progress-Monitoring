@@ -7,7 +7,8 @@ This repository contains a **PowerShell script** that handles retries and monito
 - 📊 Monitors download progress in real-time  
 - 🚨 Detects and handles percentage drops to restart the process  
 - 🕒 Calculates and displays the remaining percentage  
-- ⚡ **Works for any Ollama model** (not just `deepseek-r1:14b`)  
+- ⚡ **Works for any Ollama model** (not just `deepseek-r1:14b`)
+- 💻Open WebUI: https://github.com/open-webui/open-webui    
 
 ## 📂 How to Use  
 1. Clone the repository:  
